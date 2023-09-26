@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SubarrayWithGivenSum
+namespace Assignment4
 {
      class SubArrayWithGivenSum_negative_numbers_
     {
