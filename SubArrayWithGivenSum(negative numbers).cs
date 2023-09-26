@@ -37,15 +37,15 @@ namespace Assignment4
             return 0;
         }
 
-        public static void Main(string[] args)
-        {
-            int[] arr = new int[] {10,2,-2,-20,10};
-            int n = arr.Length;
-            int sum = -10;
+        //public static void Main(string[] args)
+        //{
+        //    int[] arr = new int[] {10,2,-2,-20,10};
+        //    int n = arr.Length;
+        //    int sum = -10;
 
-            // Function call
-            subArraySum(arr, n, sum);
-        }
+        //    // Function call
+        //    subArraySum(arr, n, sum);
+        //}
     }
 }//Time complexity:O(n)
  //space complexity:O(n)
