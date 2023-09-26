@@ -29,12 +29,12 @@ namespace Assignment4
 
         }
 
-        public static void Main(string[] args)
-        {
-            int[] a = {-7,1,5,2,-4,3,0};
-            Console.Write("Equilibrium index of Array is "
-                          + EquilibriumIndexOfArray(a));
-        }
+        //public static void Main(string[] args)
+        //{
+        //    int[] a = {-7,1,5,2,-4,3,0};
+        //    Console.Write("Equilibrium index of Array is "
+        //                  + EquilibriumIndexOfArray(a));
+        //}
     }
     
 }
