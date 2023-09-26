@@ -44,11 +44,11 @@ namespace Assignment4
 
 
         }
-        public static void Main(String[] args)
-        {
-            int[] a = { 7, 10, 4, 3, 20, 15 };
-            int k = 4, left = 0, right = 5;
-            Console.WriteLine(KthSmallest(a, k, left, right));
-        }
+        //public static void Main(String[] args)
+        //{
+        //    int[] a = { 7, 10, 4, 3, 20, 15 };
+        //    int k = 4, left = 0, right = 5;
+        //    Console.WriteLine(KthSmallest(a, k, left, right));
+        //}
     }
 }
